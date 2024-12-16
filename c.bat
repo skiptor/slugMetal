@@ -1,0 +1,1 @@
+g++  scroll.cpp main.cpp colision.cpp -o x.exe -I C:/msys64/mingw64/include/allegro5 -L C:/msys64/mingw64/bin -lallegro-5.2 -lallegro_main-5.2 -lallegro_primitives-5.2 -lallegro_image-5.2 -lallegro_font-5.2 -lallegro_audio-5.2 -lallegro_acodec-5.2
