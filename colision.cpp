@@ -24,7 +24,6 @@ int  colisionList(rect a, rect r[], int len)
 {
     for (int i = 0; i <= len; i++)
        if (colision(a, r[i])){
-        cout << "Colision detectada en el muro: "<<i <<endl;
         return i;
        }
 

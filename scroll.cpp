@@ -38,6 +38,7 @@ void scrollArea::calcularH()
     scroll -= 2; 
     if (scroll >= al_get_bitmap_width(imagen)) 
         scroll = 0;
+    
 
 }
 
